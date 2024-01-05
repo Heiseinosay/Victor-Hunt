@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/trash.png</file>
+        <file>img/edit.png</file>
+        <file>img/about.png</file>
+        <file>img/diskette.png</file>
+        <file>img/folder.png</file>
+        <file>img/Ticket.png</file>
+        <file>img/CreateBtn.png</file>
+        <file>img/confetti-png.png</file>
+        <file>img/confetti.png</file>
+        <file>img/eraser.png</file>
+        <file>img/next.png</file>
+        <file>img/sign-out.png</file>
+        <file>img/gold.png</file>
+        <file>img/green.png</file>
+        <file>img/pink.png</file>
+        <file>img/red.png</file>
+        <file>img/GoldBg.jpg</file>
+        <file>img/GreenBg.jpg</file>
+        <file>img/PinkBg.jpg</file>
+        <file>img/RedBg.jpg</file>
+        <file>img/wave .png</file>
+        <file>img/wave mirror.png</file>
+        <file>img/plus.png</file>
+        <file>img/cancel.png</file>
+        <file>img/check2.png</file>
+        <file>img/full-screen.png</file>
+        <file>img/minimize.png</file>
+        <file>img/play.png</file>
+        <file>img/play-hover.png</file>
+        <file>img/notepad.png</file>
+        <file>img/return.png</file>
+        <file>img/people.png</file>
+        <file>img/arrowBack.png</file>
+        <file>img/Resume.png</file>
+        <file>img/down.png</file>
+        <file>img/search.png</file>
+        <file>img/save-instagram.png</file>
+        <file>img/logo.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>fonts/MarsBrandsEditTab.ttf</file>
+        <file>fonts/MarsBrandsMain.ttf</file>
+        <file>fonts/GoodVibes.ttf</file>
+        <file>fonts/Butler_Regular.otf</file>
+        <file>fonts/absender1.ttf</file>
+    </qresource>
+</RCC>
